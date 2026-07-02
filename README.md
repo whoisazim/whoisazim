@@ -1,82 +1,72 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Md%20Azim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer&descAlignY=58"/><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;TypeScript+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Open+to+Collaboration"/><p>
-<img src="https://komarev.com/ghpvc/?username=whoisazim&label=Profile+Views&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/whoisazim?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/whoisazim?style=for-the-badge"/>
-</p></div>---
+<!-- অ্যানিমেটেড হেডার ব্যানার (সাইবার সিকিউরিটি ও কোডিং থিম) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/rendering?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=whoisazim&fontSize=50&animation=twinkling&fontColor=fff" width="100%" />
+</p>
 
-👋 About Me
-
-Hi! I'm Md Azim, a passionate Full Stack MERN Developer from Bangladesh.
-
-💻 I enjoy building fast, modern, and scalable web applications.
-
-🚀 Currently focusing on:
-
-- React
-- TypeScript
-- Next.js
-- Node.js
-- Express.js
-- MongoDB
-
-🎯 My goal is to become a professional Software Engineer by building real-world projects and continuously improving my skills.
+<!-- ডাইনামিক টাইপিং অ্যানিমেশন (অটোমেটিক লেখা পরিবর্তন হবে) -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Hello+World%2C+I'm+Azim;MERN+Stack+Developer;Aspiring+Cyber+Security;Blockchain+Enthusiast" alt="Typing SVG" />
+  </a>
+</h1>
 
 ---
 
-🛠 Tech Stack
+### 🌐 About Me
+- ⚡ **Navigating the Digital Frontier:** MERN স্ট্যাকের জার্নি শেষ করে এখন অ্যাডভান্সড টেকনোলজি এক্সপ্লোর করছি।
+- 🔒 **Cyber Security:** সিস্টেমের ত্রুটি খোঁজা এবং নেটওয়ার্ক সিকিউরিটি নিয়ে কাজ করতে পছন্দ করি।
+- ⛓️ **Blockchain:** ডিসেন্ট্রালাইজড ফিউচার এবং Web3 আর্কিটেকচারের প্রতি দারুণ আগ্রহ।
+- 🛠️ **Current Vibe:** ইন্টার্নশিপের জন্য নিজেকে প্রস্তুত করছি এবং নতুন নতুন সিকিউর প্রজেক্ট বানাচ্ছি।
+
+---
+
+### 💻 Tech Stack (অ্যানিমেটেড ব্যাজ)
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/react" width="48" height="48" alt="react" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/nodejs" width="48" height="48" alt="nodejs" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/express" width="48" height="48" alt="express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/mongodb" width="48" height="48" alt="mongodb" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/linux" width="48" height="48" alt="linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/shield.png" width="48" height="48" alt="security" />
+      <br>Security
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats & Streaks (লাইভ অ্যানিমেটেড কার্ড)
+*আপনার গিটহাবের রিয়েল-টাইম ডাটা এখানে অ্যানিমেশনের সাথে শো করবে।*
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode,postman,docker"/>
-</p>---
+  <img src="https://github-readme-stats.vercel.am/api?username=whoisazim&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whoisazim&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-📊 GitHub Statistics
-
-<p align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=whoisazim&show_icons=true&theme=tokyonight&hide_border=true"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisazim&layout=compact&theme=tokyonight&hide_border=true"/></p><p align="center"><img src="https://streak-stats.demolab.com?user=whoisazim&theme=tokyonight&hide_border=true"/></p>---
-
-📈 Contribution Graph
-
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=whoisazim&theme=tokyo-night&hide_border=true"/></p>---
-
-🏆 GitHub Trophies
-
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=whoisazim&theme=tokyonight&no-frame=true&margin-w=15"/></p>---
-
-🚀 Featured Projects
-
-🔹 Pet Adoption Platform
-
-🔹 E-Commerce Platform
-
-🔹 Authentication System
-
-🔹 Admin Dashboard
-
-🔹 Portfolio Website
-
-🔹 REST API Projects
-
-«Replace these with your best repositories and add Live Demo + Repository links.»
+<p align="center">
+  <img src="https://github-readme-stats.vercel.am/api/top-langs/?username=whoisazim&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+</p>
 
 ---
 
-🌱 Currently Learning
-
-- Advanced TypeScript
-- Next.js
-- Authentication & Security
-- System Design
-- Docker
-
----
-
-📫 Connect
-
-- GitHub: https://github.com/azim024471-netizen
-
----
-
-<div align="center">⭐ Thanks for visiting my profile!
-
-"Build. Learn. Improve. Repeat."
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghvc/?username=whoisazim&label=Profile%20Views&color=00f2fe&style=flat-square" alt="whoisazim views" />
+</p>
