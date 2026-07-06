@@ -1,82 +1,43 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Md%20Azim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer&descAlignY=58"/><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;TypeScript+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Open+to+Collaboration"/><p>
-<img src="https://komarev.com/ghpvc/?username=whoisazim&label=Profile+Views&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/whoisazim?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/whoisazim?style=for-the-badge"/>
-</p></div>---
+# Hi there! 👋 I am Mohammod Azim
 
-👋 About Me
+### 🚀 About Me
+I am a passionate **Full-Stack Web Developer** currently pursuing my Honors degree in **Mathematics** at the National University, Bangladesh. I love turning complex problems into simple, beautiful, and intuitive designs.
 
-Hi! I'm Md Azim, a passionate Full Stack MERN Developer from Bangladesh.
-
-💻 I enjoy building fast, modern, and scalable web applications.
-
-🚀 Currently focusing on:
-
-- React
-- TypeScript
-- Next.js
-- Node.js
-- Express.js
-- MongoDB
-
-🎯 My goal is to become a professional Software Engineer by building real-world projects and continuously improving my skills.
+*   🌱 I am currently learning **MERN Stack** (MongoDB, Express.js, React, Node.js) and **Next.js**.
+*   💬 Ask me about: Web Development, JavaScript, React, and Mathematics.
+*   📫 How to reach me: [Your Email/LinkedIn Link]
 
 ---
 
-🛠 Tech Stack
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
+</p>
 
+---
+
+### 📊 GitHub Stats
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode,postman,docker"/>
-</p>---
-
-📊 GitHub Statistics
-
-<p align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=whoisazim&show_icons=true&theme=tokyonight&hide_border=true"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisazim&layout=compact&theme=tokyonight&hide_border=true"/></p><p align="center"><img src="https://streak-stats.demolab.com?user=whoisazim&theme=tokyonight&hide_border=true"/></p>---
-
-📈 Contribution Graph
-
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=whoisazim&theme=tokyo-night&hide_border=true"/></p>---
-
-🏆 GitHub Trophies
-
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=whoisazim&theme=tokyonight&no-frame=true&margin-w=15"/></p>---
-
-🚀 Featured Projects
-
-🔹 Pet Adoption Platform
-
-🔹 E-Commerce Platform
-
-🔹 Authentication System
-
-🔹 Admin Dashboard
-
-🔹 Portfolio Website
-
-🔹 REST API Projects
-
-«Replace these with your best repositories and add Live Demo + Repository links.»
+  <img src="https://github-readme-stats.vercel.app/api?username=whoisazim&show_icons=true&theme=radical" alt="Azim's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whoisazim&theme=radical" alt="Azim's Streak" />
+</p>
 
 ---
 
-🌱 Currently Learning
-
-- Advanced TypeScript
-- Next.js
-- Authentication & Security
-- System Design
-- Docker
+### ⚡ Animation & Fun
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B500&width=435&lines=Building+impactful+web+experiences;Mathematics+enthusiast;Always+learning+new+technologies" alt="Typing Animation" />
+</p>
 
 ---
 
-📫 Connect
-
-
+### 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 ---
 
-<div align="center">⭐ Thanks for visiting my profile!
-
-"Build. Learn. Improve. Repeat."
-
-</div>
+*Made with ❤️ by Mohammod Azim*
