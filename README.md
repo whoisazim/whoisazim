@@ -1,82 +1,85 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Md%20Azim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer&descAlignY=58"/><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;TypeScript+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Open+to+Collaboration"/><p>
-<img src="https://komarev.com/ghpvc/?username=whoisazim&label=Profile+Views&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/whoisazim?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/whoisazim?style=for-the-badge"/>
-</p></div>---
+<div align="center">
 
-👋 About Me
+# 🚀 Hello, I'm Md Azim
 
-Hi! I'm Md Azim, a passionate Full Stack MERN Developer from Bangladesh.
+### 💻 Full Stack MERN Developer
 
-💻 I enjoy building fast, modern, and scalable web applications.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Md%20Azim&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-🚀 Currently focusing on:
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
 
-- React
-- TypeScript
-- Next.js
-- Node.js
-- Express.js
-- MongoDB
-
-🎯 My goal is to become a professional Software Engineer by building real-world projects and continuously improving my skills.
+</div>
 
 ---
 
-🛠 Tech Stack
+## 👋 About Me
+Hi! I'm Md Azim, a passionate Full Stack MERN Developer from Bangladesh. I enjoy building fast, modern, and scalable web applications that solve real-world problems. My goal is to become a professional Software Engineer by building high-quality projects and continuously improving my technical skills.
 
+---
+
+## 🌱 Current Activities
+- 🚀 Deep diving into **Advanced Next.js** and server-side rendering.
+- 🏗️ Currently working on a **Tourism Website** project.
+- 🧪 Enhancing my proficiency in **Advanced TypeScript** and System Design.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap"/>
+</p>
+
+### Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
+</p>
+
+### Tools & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
+</p>
+
+---
+
+## 🔗 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-profile-url" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/whoisazim" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode,postman,docker"/>
-</p>---
-
-📊 GitHub Statistics
-
-<p align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=whoisazim&show_icons=true&theme=tokyonight&hide_border=true"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisazim&layout=compact&theme=tokyonight&hide_border=true"/></p><p align="center"><img src="https://streak-stats.demolab.com?user=whoisazim&theme=tokyonight&hide_border=true"/></p>---
-
-📈 Contribution Graph
-
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=whoisazim&theme=tokyo-night&hide_border=true"/></p>---
-
-🏆 GitHub Trophies
-
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=whoisazim&theme=tokyonight&no-frame=true&margin-w=15"/></p>---
-
-🚀 Featured Projects
-
-🔹 Pet Adoption Platform
-
-🔹 E-Commerce Platform
-
-🔹 Authentication System
-
-🔹 Admin Dashboard
-
-🔹 Portfolio Website
-
-🔹 REST API Projects
-
-«Replace these with your best repositories and add Live Demo + Repository links.»
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=whoisazim&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisazim&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=whoisazim&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-🌱 Currently Learning
+## 🚀 Featured Projects (Pinned)
 
-- Advanced TypeScript
-- Next.js
-- Authentication & Security
-- System Design
-- Docker
+### 1. [Hattify - Livestock Marketplace](https://github.com/whoisazim/hattify)
+- **Description:** A modern livestock marketplace platform.
+- **Technologies:** Next.js, HeroUI, BetterAuth, MongoDB.
+- [Live Demo](https://hattify-live-link.com) | [Repository](https://github.com/whoisazim/hattify)
+
+### 2. [Dragon News](https://github.com/whoisazim/dragon-news)
+- **Description:** A dynamic news portal with authentication and routing.
+- **Technologies:** React, Firebase, Context API.
+- [Live Demo](https://dragon-news-live.com) | [Repository](https://github.com/whoisazim/dragon-news)
+
+### 3. [Your Project Name]
+- **Description:** [Short overview of your project].
+- **Technologies:** [List main technologies used].
+- [Live Demo](https://project-link.com) | [Repository](https://github.com/whoisazim/repo-name)
 
 ---
-
-📫 Connect
-
-
-
----
-
-<div align="center">⭐ Thanks for visiting my profile!
-
-"Build. Learn. Improve. Repeat."
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=whoisazim&label=Profile+Views&style=for-the-badge"/>
 </div>
