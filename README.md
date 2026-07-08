@@ -100,25 +100,13 @@ I'm **Md Azim**, a Full Stack MERN & Next.js Developer from Bangladesh. I build 
 <img src="https://raw.githubusercontent.com/whoisazim/whoisazim/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
+> ⚠️ Ei snake animation ta automatic generate hoy na — ekta GitHub Action lagbe (niche `snake.yml` file diye dilam, `.github/workflows/` folder e boshaite hobe). Action run hoile ekta `output` branch create hobe ar tar moddhei svg ta generate hobe.
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=whoisazim&theme=radical&no-frame=true&margin-w=15"/>
 </p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Live Demo |
-|---|---|---|---|
-| **Portfolio Website** | Personal portfolio with particle background, custom cursor & glass-card UI | Next.js 15, TypeScript, Tailwind, Framer Motion | [Live Demo](#) |
-| **TasteTrove** | Recipe-sharing platform with likes, Stripe payments & premium memberships | Next.js, Express, MongoDB, Stripe | [Live Demo](#) |
-| **Pawsy** | Pet adoption platform with adoption request & approval workflow | Next.js, Express, MongoDB, JWT Auth | [Live Demo](#) |
-| **TechWave** | Podcast / tech content frontend with fully responsive CSS layout | HTML, Tailwind CSS | [Live Demo](#) |
-
-> 📌 **Note:** Ei table shudhu profile README er jonno. Actual "Pin" korte hobe GitHub profile page e giye (top repos section e "Customize your pins"), README theke pin kora jay na. Ar rule অনুযায়ী প্রতিটা pinned repo-র নিজের README.md-এও থাকা দরকার: screenshot, features, dependencies, ar local run করার step-by-step guide — segula chaile alada kore banaiya dite pari.
 
 ---
 
