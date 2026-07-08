@@ -100,7 +100,6 @@ I'm **Md Azim**, a Full Stack MERN & Next.js Developer from Bangladesh. I build 
 <img src="https://raw.githubusercontent.com/whoisazim/whoisazim/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-> ⚠️ Ei snake animation ta automatic generate hoy na — ekta GitHub Action lagbe (niche `snake.yml` file diye dilam, `.github/workflows/` folder e boshaite hobe). Action run hoile ekta `output` branch create hobe ar tar moddhei svg ta generate hobe.
 
 ### 🏆 GitHub Trophies
 
