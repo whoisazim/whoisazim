@@ -105,7 +105,7 @@ I'm **Md Azim**, a Full Stack MERN & Next.js Developer from Bangladesh. I build 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=whoisazim&theme=radical&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=whoisazim&theme=radical&no-frame=true&margin-w=15"/>
 </p>
 
 ---
